@@ -33,8 +33,4 @@
    <a href="https://www.instagram.com/rdg4ark/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:rodrigo.esouza02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/rodrigo-souza-901a5520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
-![Snake animation](https://github.com/rodrigo02souza/rodrigo02souza/blob/output/github-contribution-grid-snake.svg)
- 
+</div> 
